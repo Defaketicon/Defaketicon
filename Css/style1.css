@@ -794,6 +794,33 @@
   font-weight: 400;
   font-style: italic;
 }
+.homepage-ashby-1 {
+  width: 575px;
+  height: 706px;
+  position: absolute;
+  left: 865px;
+  top: 745px;
+  object-fit: cover;
+  aspect-ratio: 575/706;
+}
+.homepage-gio-1 {
+  width: 924px;
+  height: 540px;
+  position: absolute;
+  left: 274px;
+  top: 1955px;
+  object-fit: cover;
+  aspect-ratio: 924/540;
+}
+.homepage-carlo-1 {
+  width: 370px;
+  height: 1016px;
+  position: absolute;
+  left: 105px;
+  top: 2604px;
+  object-fit: cover;
+  aspect-ratio: 370/1016;
+}
 .wrapper {
   width: 100%;
   max-width: 1440px;
