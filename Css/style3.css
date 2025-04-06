@@ -1645,6 +1645,15 @@
   align-items: center;
   justify-content: flex-start;
 }
+.recommendations-yana-1 {
+  width: 487px;
+  height: 564px;
+  position: absolute;
+  left: 856px;
+  top: 2570px;
+  object-fit: cover;
+  aspect-ratio: 487/564;
+}
 .wrapper {
   width: 100%;
   max-width: 1440px;
