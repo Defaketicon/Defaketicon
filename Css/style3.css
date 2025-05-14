@@ -307,7 +307,7 @@
 .rectangle-332 {
   background: #f4f4f4;
   width: 1436px;
-  height: 1235px;
+  height: 1200px;
   position: absolute;
   left: 0px;
   top: 627px;
@@ -1465,15 +1465,13 @@
   top: 1118px;
   object-fit: cover;
 }
-.image-27 {
+.threats-tab-background-1 {
   width: 1436px;
-  height: 674px;
+  height: 632px;
   position: absolute;
   left: 0px;
-  top: 0px;
-  overflow: visible;
+  top: -5px;
   object-fit: cover;
-  opacity: 0.9;
 }
 .d-5-3 {
   width: 394px;
