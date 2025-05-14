@@ -84,12 +84,12 @@
   display: flex;
   align-items: center;
 }
-.image-9 {
-  width: 1437px;
-  height: 819px;
+.homebg {
+  width: 1438px;
+  height: 818px;
   position: absolute;
-  left: 1px;
-  top: 11px;
+  left: 0px;
+  top: 0px;
   object-fit: cover;
 }
 .what-is {
@@ -522,15 +522,7 @@
   align-items: center;
   justify-content: center;
 }
-.rectangle-18 {
-  opacity: 1;
-  width: 1437px;
-  height: 819px;
-  position: absolute;
-  left: 1px;
-  top: 11px;
-  overflow: visible;
-}
+
 .the-world-of-deepfake {
   color: #ffffff;
   text-align: center;
